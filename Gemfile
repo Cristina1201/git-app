@@ -73,5 +73,3 @@ end
 
 
 gem 'pry-rails'
-gem 'divise'
-
